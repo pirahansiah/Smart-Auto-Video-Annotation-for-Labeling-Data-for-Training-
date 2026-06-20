@@ -16,3 +16,9 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+# macOS and career assets
+CAREER_IMPACT.md
+.DS_Store
+._pack-*.idx
+._*
